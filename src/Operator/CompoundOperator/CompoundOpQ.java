@@ -1,0 +1,123 @@
+package Operator.CompoundOperator;
+
+public class CompoundOpQ {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		//Q01
+//		int a=8, b=4, c=2;
+//		a+=(a+b-c)/2;
+//		System.out.println(a);
+		
+		
+		
+		//Q02
+//		int n=436;
+//		n/=10;
+//		System.out.println(n);
+		
+		
+		
+		//Q03
+//		int num = 7;
+//		num /= 2;
+//		System.out.println(num);
+		
+		
+		
+		//Q04
+//		int n=36;
+//		n*=2;
+//		n*=2;
+//		System.out.println(n);
+		
+		
+		
+		//Q05
+//		int k = 3;
+//		k *= k += k - 1;
+//		System.out.println(k);
+		
+		
+		
+		//Q06
+//		int n = 14;
+//		n += n % 5 * 2;
+//		System.out.println(n);
+		
+		
+		
+		//Q07
+//		int a, b, c;
+//		a = b = c = 5;
+//		a += b -= c *= 2;
+//		System.out.println(a + " " + b + " " + c);
+		
+		
+		
+		
+		//Q08
+//		int m = 27;
+//		m %= 5 + 4;
+//		System.out.println(m);
+		
+		
+		
+		
+		//Q09
+//		int x = 5;
+//		x += x *= 2;
+//		System.out.println(x);
+		
+		
+		
+		//Q10
+//		int a = 2, b = 3, c = 4;
+//		a += b += c *= 2;
+//		System.out.println(a + " " + b + " " + c);
+		
+		
+		
+		//Q11
+//		int n = 4;
+//		n *= n += 2;
+//		System.out.println(n);
+//		
+	
+		//Q12
+//		int a, b, c;
+//		a = b = c = 5;
+//		a += b -= c *= 2;
+//		System.out.println(a + " " + b + " " + c);
+		
+		
+		//Q13
+//		int m = 17;
+//		m += m % 3 * 2;
+//		System.out.println(m);
+		
+		
+		//Q14
+//		int a = 2, b = 3, c = 4;
+//		a += b += c *= 2;
+//		System.out.println(a + " " + b + " " + c);
+		
+		
+		
+		
+		// Q:16 
+
+		// Evaluate the expression:
+//		int num = 29;
+//		num %= 5 + 3;
+//		System.out.println(num);
+		
+		//Q17
+//		int a = 5, b = 3;
+//		a += b *= 2;
+//		System.out.println(a + " " + b);
+	}
+
+}
