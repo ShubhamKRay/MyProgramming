@@ -26,6 +26,8 @@ public class Q4 {
 		System.out.println(b);
 	*/
 		
+		
+		
 //		* b. Without using third variable
 		
 		a=a+b;
