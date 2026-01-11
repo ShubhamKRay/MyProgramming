@@ -558,16 +558,15 @@ public class Questions {
 		o/p: sum is: 10 (1+2+7)
 		
 */		
-		
+	}
 		public static int sumOfAllFactor(int n) {
 			int fact = 1;
 			int i = 1;
 			while(i<=n) {
-				
+				System.out.println();
 			}
-		
-		
-		
+			return i;
+	
 		}
 	
 		
@@ -583,4 +582,4 @@ public class Questions {
 				 
 }	
 		
-}
+

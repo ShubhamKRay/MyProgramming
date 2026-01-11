@@ -13,9 +13,12 @@ public class AllQueIncDecOper {
 //		int b=a++;
 //		System.out.println(a);
 //		System.out.println(b);
-//		
 
-		
+
+//------------------------------------------------------------
+
+
+//		Q:2
 //		Solve and answer value of a, b and c.
 //		Solve:
 		
@@ -24,8 +27,10 @@ public class AllQueIncDecOper {
 //		System.out.println(a);
 //		System.out.println(b);
 		
-		
-		
+//--------------------------------------------------------------
+
+
+
 //		Q3
 //		Solve and answer value of a, b and c.
 
@@ -37,7 +42,10 @@ public class AllQueIncDecOper {
 //		System.out.println(b);
 //		System.out.println(c);
 		
-		
+//--------------------------------------------------------------
+
+
+
 //		Q4
 //		Solve and answer value of a, b and c.
 
@@ -49,8 +57,11 @@ public class AllQueIncDecOper {
 //		System.out.println(b);
 //		System.out.println(c);
 		
-		
-		
+//---------------------------------------------------
+
+
+
+
 //		Q5
 //		Solve and answer value of a, b and c.
 
@@ -63,7 +74,7 @@ public class AllQueIncDecOper {
 //		System.out.println(b);
 //		System.out.println(c);
 		
-		
+//---------------------------------------------------------
 		
 	
 //		Q6
@@ -77,7 +88,7 @@ public class AllQueIncDecOper {
 //		System.out.println(c);
 		
 		
-		
+//-------------------------------------------------------
 		
 		
 //		Q7
@@ -91,7 +102,7 @@ public class AllQueIncDecOper {
 //		System.out.println(z);
 		
 		
-		
+//---------------------------------------------------------
 		
 		
 //		Q8
@@ -102,8 +113,10 @@ public class AllQueIncDecOper {
 //		System.out.println(result);
 //		System.out.println(x);
 		
-		
-		
+//---------------------------------------------------
+
+
+
 //		Q9
 //		Solve and answer value of c.
 
@@ -115,7 +128,7 @@ public class AllQueIncDecOper {
 //		System.out.println( c );
 		
 		
-		
+//---------------------------------------------------------------
 		
 		
 //		Q10
@@ -130,7 +143,7 @@ public class AllQueIncDecOper {
 //		System.out.println(x);
 		
 		
-		
+//--------------------------------------------------------------
 		
 //		Q11
 //		Solve and answer value of x, y, z and p.
@@ -146,7 +159,7 @@ public class AllQueIncDecOper {
 //		System.out.println(p);
 		
 		
-		
+//---------------------------------------------------------------
 		
 //		Q12
 //		Solve and answer value of a, b and c and d.
@@ -165,7 +178,7 @@ public class AllQueIncDecOper {
 		
 		
 		
-		
+//-----------------------------------------------------------------
 		
 		
 //		Q13
@@ -188,7 +201,7 @@ public class AllQueIncDecOper {
 		
 		
 		
-		
+//---------------------------------------------------------------
 		
 		
 //		Q14
@@ -204,7 +217,7 @@ public class AllQueIncDecOper {
 //		System.out.println (++e);
 		
 		
-		
+//-----------------------------------------------------------------
 		
 //		Q15
 //		Solve and answer:-
@@ -213,7 +226,10 @@ public class AllQueIncDecOper {
 //		x += (y++ * 2);
 //		System.out.println(x + " " + y);
 		
-		
+
+//------------------------------------------------------------
+
+
 //		Q16
 //		Solve and answer:-
 		

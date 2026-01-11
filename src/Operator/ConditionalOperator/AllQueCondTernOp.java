@@ -10,9 +10,12 @@ public class AllQueCondTernOp {
 		
 //		Q:1
 
-//		int a = 5, b = 10;
-//		int c = (a > b) ? a++ : b++;
-//		System.out.println(a + " " + b + " " + c);
+		int a = 5, b = 10;
+		int c = (a > b) ? a++ : b++;
+		System.out.println(a + " " + b + " " + c);
+
+//----------------------------------------------------------------------
+
 
 		
 //		Q2

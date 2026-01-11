@@ -34,7 +34,7 @@ public class AllQuestion {
 //		System.out.println((x+y)%12==0);
 //		System.out.println((x+y)%12!=0);
 //		System.out.println(z%100!=0);
-//		
+
 		
 		
 		
@@ -72,7 +72,7 @@ public class AllQuestion {
 //		System.out.println(d < d);
 //		System.out.println(d > d);
 //		System.out.println(d <= d);
-//		
+
 		
 		
 		
@@ -85,9 +85,55 @@ public class AllQuestion {
 //		int x = 5;
 //		System.out.println(1 < x < 10);
 		
+/*
+Step 1: Analyze
+
+In Java, the expression 1 < x < 10 does NOT work like in Python.
+
+Java does not allow chaining of relational operators.
+
+Here’s why:
+
+1 < x evaluates first.
+
+1 < x is 1 < 5, which is true.
+
+Now you are left with true < 10.
+
+⚠️ But true < 10 is illegal in Java, because true is a boolean, and < expects numbers.
+
+✅ Correct Way in Java
+
+You must use the logical AND operator &&:
+
+int x = 5;
+System.out.println(1 < x && x < 10); // true
+
+
+1 < x → true
+
+x < 10 → true
+
+true && true → true
+
+✅ Output:
+
+true
+ */
 		
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
 //		Q:6
 //		Evaluate the expression:
 			
@@ -115,9 +161,9 @@ public class AllQuestion {
 //		Q:8
 //		Evaluate the expression:
 			
-//		int p = 3, q = 5;
-//		System.out.println((p += 2) > (q -= 2));
-//		System.out.println(p + " " + q);
+		int p = 3, q = 5;
+		System.out.println((p += 2) > (q -= 2));
+		System.out.println(p + " " + q);
 		
 		
 		

@@ -17,7 +17,7 @@ public class AllQueLogicOper {
 //		System.out.println(result);
 		
 		
-		
+//----------------------------------------------------------
 		
 //		Q2
 //		Solve and answer:-
@@ -30,7 +30,7 @@ public class AllQueLogicOper {
 //		System.out.println(y);
 		
 		
-		
+//----------------------------------------------------------------
 		
 		
 //		Q3
@@ -44,7 +44,7 @@ public class AllQueLogicOper {
 //		System.out.println(y);
 		
 		
-		
+//---------------------------------------------------------
 		
 		
 //		Q4
@@ -57,7 +57,7 @@ public class AllQueLogicOper {
 //		System.out.println(result);
 		
 		
-		
+//--------------------------------------------------------------
 		
 		
 //		Q5
@@ -70,13 +70,14 @@ public class AllQueLogicOper {
 //		System.out.println(b);
 		
 		
-		
+//--------------------------------------------------------------
 		
 		
 		
 //		Q6
 //		Solve and answer:-
 //      Important   a++>25 &&
+
 //		int a=20;
 //		int b=30;
 //		System.out.println(a++>25 && b++>20);
@@ -84,7 +85,7 @@ public class AllQueLogicOper {
 //		System.out.println(b);
 		
 		
-		
+//-----------------------------------------------------------
 		
 		
 		
@@ -101,7 +102,7 @@ public class AllQueLogicOper {
 //		System.out.println(a);
 //		System.out.println(b);
 		
-		
+//-------------------------------------------------------
 		
 		
 //		Q8
@@ -114,23 +115,25 @@ public class AllQueLogicOper {
 //		System.out.println(a);
 //		System.out.println(b);
 		
-		
+//---------------------------------------------------------
 		
 		
 		
 //		Q9 - HackerRank
-		
-//		For a given year print true if it is a leap year or
-//		print false if it is not a leap year.
-		
-//		Given a year, determine whether it is a leap year. If it is a leap year, 
-//		return the Boolean True, otherwise return False.
-		
+	/*
+		For a given year print true if it is a leap year or
+		print false if it is not a leap year.
+		https://www.hackerrank.com/challenges/write-a-function/problem
+
+		Given a year, determine whether it is a leap year. If it is a leap year,
+		return the Boolean True, otherwise return False.
+
+	 */
 		
 		        Scanner sc = new Scanner(System.in);
 				System.out.print("Enter year : ");
 				int year = sc.nextInt();
-				
+
 				if ((year%400==0)    ||    (year%4==0 && year%100!=0) )
 					System.out.println("True");
 				else
